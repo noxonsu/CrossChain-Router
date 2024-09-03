@@ -178,6 +178,7 @@ ReloadCycle = 600
 59144       = ["https://linea-mainnet.infura.io/v3/"] #Linea Mainnet
 1229       = ["https://evm.exzoscan.io/rpc"] #Exzo Network Mainnet
 2370       = ["https://evm-test.exzo.network/"] #Exzo Network Testnet
+420044     = ["https://testnet-rpc.vsgofficial.com"] #Vector
 
 # GatewaysExt config. key is chainID. used for broadcasting tx
 [GatewaysExt]
@@ -215,6 +216,7 @@ ReloadCycle = 600
 59144       = ["https://linea-mainnet.infura.io/v3/"] #Linea Mainnet
 1229       = ["https://evm.exzoscan.io/rpc"] #Exzo Network Mainnet
 2370       = ["https://evm-test.exzo.network/"] #Exzo Network Testnet
+420044     = ["https://testnet-rpc.vsgofficial.com"] #Vector
 
 # MPC config
 [MPC]
